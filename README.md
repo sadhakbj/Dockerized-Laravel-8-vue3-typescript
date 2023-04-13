@@ -26,3 +26,6 @@ Docker development implementation for Laravel 8.\* with:
 - You can access the project at: `http://localhost:8000`
 
 
+## Contributing
+
+You can contribute to this project by following this documentation.
